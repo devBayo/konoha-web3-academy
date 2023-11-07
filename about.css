@@ -13,6 +13,10 @@
     margin:1.6rem 0 2.5rem;
 }
 
+.about_achievements-right > h1{
+    font-family: 'Stick', sans-serif;
+}
+
 .achievements_cards{
     display:grid;
     grid-template-columns: repeat(3, 1fr);
@@ -61,6 +65,10 @@
 }
 .team2{
     background:var(--color-bg);
+}
+
+.team .team2 h2{
+    font-family: 'Stick', sans-serif;
 }
 
 .team_container{
